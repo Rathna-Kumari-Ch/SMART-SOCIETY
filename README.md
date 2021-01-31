@@ -1,0 +1,2 @@
+# SMART-SOCIETY
+Angular Project
